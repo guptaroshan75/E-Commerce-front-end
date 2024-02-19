@@ -24,10 +24,10 @@ const SingleBlogPage = () => {
                 <div className='container position-relative'>
                     <h2 className="text-center fs-1 fw-bold">
                         <span className='ms-3'>
-                            {specificBlog?.blogTitle.slice(0, 24)}
+                            {specificBlog?.blogTitle.slice(0, 30)}
                         </span>
                     </h2>
-                    <img src="../assets/car-logo.png" className='car-logo'
+                    <img src="../assets/car-logo.png" className='car-logo car-logo-blog'
                         alt="car-logo"
                     />
                 </div>

@@ -60,7 +60,6 @@ const Enquiry = () => {
                 message: addEnquir.message ? 'valid' : 'invalid',
             });
         }
-        // dispatch(enquiryDetails(addEnquir));
     };
 
     return (

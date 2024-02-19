@@ -934,6 +934,13 @@
     }
 }
 
+@media screen and (max-width: 486px) and (min-width: 319px)  {
+    .position-relative .car-logo-blog{
+        left: 35.6%!important;
+        top: -55%!important;    
+    }
+}
+
 @media screen and (max-width: 424px) and (min-width: 319px)  {
     .flex-row-reverse .avatar-content h5{
         font-size: 13px !important;
